@@ -5,7 +5,7 @@ and VGG-16 for detecting AI-generated images versus real photographs,
 including Monte Carlo uncertainty estimation and user-submitted image 
 testing.
 
-**Course:** CPS 4801 — Artificial Intelligence  
+**Course:** CPS 4801 — Artificial Intelligence, Spring 2025  
 **Author:** Dahana Moz Ruiz 
 **Institution:** Kean University
 
@@ -122,4 +122,4 @@ Download the dataset from Kaggle, upload it to Google Drive, then update the `DA
 ## Author
 
 Dahana Moz Ruiz
-Kean University — CPS 4801 Artificial Intelligence
+Kean University — CPS 4801 Artificial Intelligence, Spring 2025
