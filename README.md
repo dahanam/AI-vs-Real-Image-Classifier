@@ -119,18 +119,6 @@ Download the dataset from Kaggle, upload it to Google Drive, then update the `DA
 
 ---
 
-## Report
-
-The full project report (`AI_Final_Project_Report.pdf`) includes:
-- Literature review
-- Model architecture details
-- Training and testing results
-- Confusion matrix analysis
-- Monte Carlo uncertainty discussion
-- Conclusions and future work
-
----
-
 ## Author
 
 Dahana Moz Ruiz
