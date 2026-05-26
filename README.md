@@ -79,7 +79,6 @@ models' complementary strengths could improve overall performance.
 | File | Description |
 |------|-------------|
 | `ai_image_classifier.ipynb` | Full pipeline — dataset loading, data visualization, ResNet-50 training, VGG-16 training, confusion matrices, Monte Carlo uncertainty estimation, and user-submitted image testing |
-| `AI_Final_Project_Report.pdf` | Full project report including literature review, architecture details, results, and conclusions |
 
 ---
 
